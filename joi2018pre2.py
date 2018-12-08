@@ -1,14 +1,14 @@
 #-*- coding: utf-8 -*-
 
-n = int(input())
-# n
+bushi = list(map(int,input().split()))
+aze = list(map(int,input().split()))
+osaka = list(map(int,input().split()))
+kaisu = int(input())
 
-list = list(map(int,input().split()))
-# 行
 
-for 
+
+for ()
 # list内にnがあるか？
 
 # 出力
 print(answer)
-
